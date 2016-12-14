@@ -31,6 +31,7 @@ gem 'jbuilder', '~> 2.5'
 
 # plugin
 gem 'bootstrap-sass'
+gem "simple_form"
 
 
 group :development, :test do
